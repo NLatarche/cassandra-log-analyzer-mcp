@@ -81,9 +81,9 @@ Quit and restart Claude Desktop to load the MCP server.
 
 ```
 Configure my 3 Cassandra nodes:
-- node1: 34.77.243.210, user: admin, key: ~/.ssh/id_rsa
-- node2: 35.189.205.130, user: admin, key: ~/.ssh/id_rsa
-- node3: 35.187.48.56, user: admin, key: ~/.ssh/id_rsa
+- node1: xx.xxx.xxx.xxx, user: admin, key: ~/.ssh/id_rsa
+- node2: xxx.xxx.xxx.xxx, user: admin, key: ~/.ssh/id_rsa
+- node3: xxx.xxx.xxx.xxx, user: admin, key: ~/.ssh/id_rsa
 ```
 
 ### Load Logs from All Nodes
@@ -234,9 +234,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -246,9 +243,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/cassandra-mcp](https://github.com/yourusername/cassandra-mcp)
+Project Link: [https://github.com/yourusername/cassandra-mcp](https://github.com/NLatarche/cassandra-mcp)
 
 ## 🗺️ Roadmap
 
