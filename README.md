@@ -26,7 +26,7 @@ A Model Context Protocol (MCP) server for analyzing and troubleshooting Apache C
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/cassandra-mcp.git
+git clone https://github.com/NLatarche/cassandra-mcp.git
 cd cassandra-mcp
 ```
 
@@ -244,7 +244,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 
-Project Link: [https://github.com/yourusername/cassandra-mcp](https://github.com/NLatarche/cassandra-mcp)
+Project Link: [https://github.com/NLatarche/cassandra-mcp](https://github.com/NLatarche/cassandra-mcp)
 
 ## 🗺️ Roadmap
 
